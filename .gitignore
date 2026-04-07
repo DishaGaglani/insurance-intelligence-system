@@ -1,0 +1,12 @@
+.DS_Store
+.cursor/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Large datasets not needed for app deploy
+data/train.csv
+data/test.csv
+data/Insurance claims data.csv
