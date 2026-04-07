@@ -22,7 +22,6 @@ This project builds an end-to-end insurance analytics system that integrates mul
 ## Tech Stack
 - Python (pandas, sklearn, xgboost)
 - Streamlit
-- Power BI / Tableau
 
 ## How to Run
 ```bash
